@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="isik acik">
+    <file>logolar/Lamp_27000.ico</file>
+  </qresource>
+  <qresource prefix="isik kapali">
+    <file>logolar/kapali.png</file>
+    <file>logolar/favicon.ico</file>
+  </qresource>
+  <qresource prefix="motor ileri">
+    <file>logolar/tzp9m-g2pz7.ico</file>
+    <file>logolar/Hopstarter-Soft-Scraps-Button-Forward.ico</file>
+    <file>logolar/fast-forward (1).ico</file>
+  </qresource>
+  <qresource prefix="motor geri">
+    <file>logolar/ts55d-lnra3.ico</file>
+    <file>logolar/fast-bacward.ico</file>
+  </qresource>
+  <qresource prefix="benim logo">
+    <file>logolar/siyah (1).ico</file>
+    <file>logolar/beyaz logo.ico</file>
+  </qresource>
+  <qresource prefix="okul logo">
+    <file>logolar/logov3.ico</file>
+  </qresource>
+  <qresource prefix="kilit yok">
+    <file>logolar/256 x 256 - BMP (32-bit).png</file>
+    <file>logolar/acik (1).ico</file>
+  </qresource>
+  <qresource prefix="kilitli">
+    <file>logolar/kilitli.ico</file>
+  </qresource>
+</RCC>
