@@ -1,5 +1,5 @@
 # davrazelektromobil
-#https://batuhanokmen.com/2021/02/07/davraz-elektromobil-arac-ici-kontrol-ekrani/
+# https://batuhanokmen.com/2021/02/07/davraz-elektromobil-arac-ici-kontrol-ekrani/
 Davraz elektromobil iç kontrol ekran yaızlımı
 
 QT designer programından aldığımız ekran şablonunu koda dönüştürüyoruz
